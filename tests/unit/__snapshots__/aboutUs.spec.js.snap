@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`aboutUs aboutUs should render the selected pokemon information (ditto) 1`] = `
+<div>
+  Hello <br>
+  <pokemonselector-stub></pokemonselector-stub>
+  mockDittoData
+</div>
+`;

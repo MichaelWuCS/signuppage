@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`pokemonSelector pokemonSelector should not take in any props 1`] = `<div><input id="inputbox" type="text" placeholder="Enter a Pokémon's name or pokédex number"> <br> <button type="button">Input!</button></div>`;
